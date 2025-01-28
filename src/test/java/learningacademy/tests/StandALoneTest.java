@@ -20,6 +20,7 @@ public class StandALoneTest {
 	public static void main(String[] args)  {
 		// TODO Auto-generated method stub
 		// TODO Auto-generated method stub
+		//new comments are added
 				WebDriverManager.edgedriver().setup();
 			//System.setProperty("webdriver.edge.driver", "/D://drivers//msedgedriver.exe/");
 				WebDriver driver = new EdgeDriver();
